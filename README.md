@@ -4,11 +4,8 @@ Este proyecto forma parte de una práctica de DevOps en la que se desarrolla un 
 
 👥 Integrantes del equipo
 
-Carolin Cristal Ortiz Alcántara – 2023-1333
+Keydel Moya – 2023-1064
 
-Sander Rafael Fernández Tolentino – 2023-1001
-
-Bily Manuel Álvarez Sánchez – 2023-0952
 
 📚 Tecnologías utilizadas
 Node.js - entorno de ejecución JavaScript
